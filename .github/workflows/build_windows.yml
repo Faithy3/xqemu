@@ -9,6 +9,10 @@ jobs:
       matrix:
         configuration: ["Debug", "Release"]
     steps:
+    - name: Set the value
+      id: step_one
+      run: |
+        echo "ACTIONS_ALLOW_UNSECURE_COMMANDS=TRUE" >> $GITHUB_ENV
     - name: Define Build Options
       shell: python
       run: |
