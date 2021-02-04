@@ -2,7 +2,7 @@ XQEMU
 =====
 
 XQEMU is an open-source emulator to play original Xbox games on Windows, macOS,
-and Linux. Please visit [xqemu.com](http://xqemu.com) to learn more.
+and Linux. Please visit [xqemu.com](http://xqemu.com) to learn more.GONBJTENBOETJ
 
 Build Status
 ------------
